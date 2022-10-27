@@ -1,0 +1,26 @@
+[
+  {
+    "AppID": "MES1",
+    "AppType": "HRM",
+    "ConnectionStrInfos": [
+      {
+        "ConnectID": 1,
+        "ConnectStr": "Data Source=XXX..."
+      },
+      {
+        "ConnectID": 2,
+        "ConnectStr": "Data Source=XXXXXXXXXX..."
+      }
+    ]
+  },
+  {
+    "AppID": "MES2",
+    "AppType": "FQ",
+    "ConnectionStrInfos": [
+      {
+        "ConnectID": 1,
+        "ConnectStr": "Data Source=192.168.1.218;Initial Catalog=FabricQuality;Persist Security Info=True;User ID=sa;Password='rm4u;6g6u,4'"
+      }
+    ]
+  }
+]
